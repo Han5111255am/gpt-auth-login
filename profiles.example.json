@@ -1,0 +1,14 @@
+[
+  {
+    "name": "账号A",
+    "session": "./sessions/账号A.json",
+    "mode": "adspower",
+    "profileId": "example_id_001"
+  },
+  {
+    "name": "账号B",
+    "session": "./sessions/账号B.json",
+    "mode": "adspower",
+    "profileId": "abc12345"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "gpt-session-inject",
+  "version": "1.0.0",
+  "description": "通过 session.json 注入 ChatGPT 登录态",
+  "scripts": {
+    "inject": "node inject-session.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.10.0",
+    "playwright": "^1.52.0"
+  }
+}
